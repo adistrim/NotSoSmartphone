@@ -30,7 +30,6 @@ contact_btn = PhotoImage(file="icons/490-4900245_contacts-icon-galaxy-s6-png-ima
 game_btn = PhotoImage(file="icons/19-191352_game-icon-png-controller-emoji-transparent-png_copy_84x70.png")
 power_btn = PhotoImage(file="icons/download (1)_copy_84x70.png")
 
-# Quiting the application
 def quit_program():
     quit()
 
